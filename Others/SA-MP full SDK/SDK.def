@@ -1,0 +1,7 @@
+LIBRARY	"SDK"
+EXPORTS
+	Supports
+	Load
+	Unload
+	AmxLoad
+	AmxUnload
