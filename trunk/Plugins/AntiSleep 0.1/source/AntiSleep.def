@@ -1,0 +1,7 @@
+LIBRARY	"AS"
+EXPORTS
+	Supports
+	Load
+	Unload
+	AmxLoad
+	AmxUnload
