@@ -1,0 +1,7 @@
+EXPORTS
+EXPORT_InitializeHooks		@1
+EXPORT_ClientConnect		@2
+EXPORT_ClientDisconnect		@3
+EXPORT_ClientSpawn			@4
+EXPORT_ClientDeath			@5
+EXPORT_GetMutex				@6
